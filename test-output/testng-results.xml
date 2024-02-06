@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-27T12:39:26 IST" name="Default suite" finished-at="2024-01-27T12:39:40 IST" duration-ms="14022">
+    <groups>
+    </groups>
+    <test started-at="2024-01-27T12:39:26 IST" name="Default test" finished-at="2024-01-27T12:39:40 IST" duration-ms="14022">
+      <class name="RestAssuredDemo.RestAssuredDemo.header_test">
+        <test-method signature="get_multiple_headers_details()[pri:3, instance:RestAssuredDemo.RestAssuredDemo.header_test@5ffead27]" started-at="2024-01-27T12:39:27 IST" name="get_multiple_headers_details" finished-at="2024-01-27T12:39:40 IST" duration-ms="13534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_multiple_headers_details -->
+      </class> <!-- RestAssuredDemo.RestAssuredDemo.header_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
